@@ -7,9 +7,9 @@ layman -a rinaldus-overlay
 
 download mate-1.14.0.ebuild and put it into: 
 
-/var/lib/layman/rinaldus-overlay/mate-base/
+/var/lib/layman/rinaldus-overlay/mate-base/mate/
 
-cd /var/lib/layman/rinaldus-overlay/mate-base/
+cd /var/lib/layman/rinaldus-overlay/mate-base/mate/
 
 ebuild mate-1.14.0.ebuild digest
 ebuild mate-1.14.0.ebuild clean
